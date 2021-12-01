@@ -4,5 +4,5 @@ module.exports = ltA;
 
 function ltA() {
     // TODO
-    return 1;
+    return 2;
 }
