@@ -17,6 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lt-b": "^1.0.0"
+    "lt-b": "^1.0.0",
+    "lt-c": "^2.0.0"
   }
 }
