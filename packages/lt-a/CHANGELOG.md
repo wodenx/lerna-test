@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/wodenx/lerna-test/compare/lt-a@1.3.0...lt-a@1.4.0) (2021-12-07)
+
+
+### Features
+
+* **a:** Update a but not b independent mode yet again ([9c6e243](https://github.com/wodenx/lerna-test/commit/9c6e2435096c8c0636fb7f843986925add35131e))
+
+
+
+
+
 # [1.3.0](https://github.com/wodenx/lerna-test/compare/lt-a@1.2.0...lt-a@1.3.0) (2021-12-07)
 
 
