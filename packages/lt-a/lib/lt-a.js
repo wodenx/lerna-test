@@ -4,5 +4,5 @@ module.exports = ltA;
 
 function ltA() {
     // TODO
-    return 'no b with independent mode yet again';
+    return 'a minor';
 }
