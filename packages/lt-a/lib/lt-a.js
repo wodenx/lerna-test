@@ -4,5 +4,5 @@ module.exports = ltA;
 
 function ltA() {
     // TODO
-    return 'no b';
+    return 'no b for real';
 }
