@@ -1,5 +1,5 @@
 {
-  "name": "lt-a",
+  "name": "@foo/lt-a",
   "version": "1.4.1",
   "description": "> TODO: description",
   "author": "Chris Oden <coden@its.jnj.com>",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lt-b": "^1.2.0",
+    "@foo/lt-b": "^1.2.0",
     "lt-c": "^2.0.0"
   }
 }
