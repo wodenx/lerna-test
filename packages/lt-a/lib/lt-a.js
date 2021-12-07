@@ -4,5 +4,5 @@ module.exports = ltA;
 
 function ltA() {
     // TODO
-    return 'no b for real';
+    return 'no b with independent mode';
 }
